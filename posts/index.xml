@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Blogas</title>
+    <title>Posts on My Blogas</title>
     
     
     
-    <link>https://domasbug.github.io/</link>
-    <description>Recent content on My Blogas</description>
+    <link>https://domasbug.github.io/posts/</link>
+    <description>Recent content in Posts on My Blogas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Nov 2023 21:35:48 +0200</lastBuildDate>
     
-	<atom:link href="https://domasbug.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://domasbug.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
